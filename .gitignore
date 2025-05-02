@@ -1,0 +1,12 @@
+/upload/
+/bitrix/
+/local/vendor/
+*.log
+*.swp
+*.sql
+.DS_Store
+Thumbs.db
+/web.config
+/.htaccess
+/robots.txt
+/sitemap*.xml
